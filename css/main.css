@@ -1,31 +1,48 @@
 
+.placeholder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .container-1{
     display: flex;
+    align-items: center;
+    margin: 200px
 
     }
 
+.button{
+    background-color: yellow;
+    background: yellow;
+}
+
 
 .container-1{
+    
     border: 1px #ccc solid;
     padding: 10px
     color gray;
     flex-direction: column;
-    
-
 
     }
 
-.box-1{
-        border: 10px
-        color gray
-        
+.enter-email-box{
+        border: 10px;
+        border-color: gray;
         }
 
-.box-2{
-    flex:1;
+.enter-password-box{
+    border: 10px;
+    border-color: gray
     }
 
-.box-3{
-    flex:1;
+.continue{
+    background-color: yellow;
     }
+
+.create-account{
+    display: flex;
+    justify-content: center;
+}
 
