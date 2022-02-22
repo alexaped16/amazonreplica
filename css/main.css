@@ -1,0 +1,31 @@
+
+.container-1{
+    display: flex;
+
+    }
+
+
+.container-1{
+    border: 1px #ccc solid;
+    padding: 10px
+    color gray;
+    flex-direction: column;
+    
+
+
+    }
+
+.box-1{
+        border: 10px
+        color gray
+        
+        }
+
+.box-2{
+    flex:1;
+    }
+
+.box-3{
+    flex:1;
+    }
+
