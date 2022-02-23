@@ -37,10 +37,6 @@
     font-size: 10px;
 }
 
-/* unvisited link */
-a:link {
-    color: #FF0000;
-}
 
 .button-continue{
     display: flex;
@@ -48,6 +44,11 @@ a:link {
     display: flex;
     flex-direction: column;
     
+}
+
+.submit-button{
+    background-color: yellow;
+    border: rgb(58, 56, 56);
 }
 
 .create-account{
